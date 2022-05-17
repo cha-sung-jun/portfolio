@@ -1,0 +1,24 @@
+*{margin:0;padding:0;}
+body{
+  background-image: linear-gradient(to bottom, #7a7a7a, #857e86, #97818a, #a98487, #b6897d, #b88b7f, #bb8d81, #bd8f83, #b48e92, #a6909a, #999299, #929292);
+}
+div img{
+  margin:0 auto;
+  display: block;
+}
+.fixed{
+  position: fixed;
+  right:100px;
+  bottom:100px;
+}
+.fixed:hover{
+  opacity:0.8;
+}
+.fixed2{
+  position: fixed;
+  right:100px;
+  bottom:40px;
+}
+.fixed2:hover{
+  opacity:0.8;
+}
