@@ -37,7 +37,7 @@ body{
 .magazine .region{
 	position:absolute;
 	overflow:hidden;
-/* 	background:#0066FF; */
+	background:#0066FF;
 	opacity:0.2;
 	-webkit-border-radius:10px;
 	-moz-border-radius:10px;
@@ -93,7 +93,7 @@ body{
 	height:100%;
 
 	background:-webkit-gradient(linear, left top, right top, color-stop(0.92, rgba(0,0,0,0)), color-stop(1, rgba(0,0,0,0.2)));
-	background-image:-webkit-linear-gradient(left, rgba(0,0,0,0) 92%, rgba(0,0,0,0.35) 100%);
+	background-image:-webkit-linear-gradient(left, rgba(0,0,0,0) 92%, rgba(0,0,0,0) 100%);
 	background-image:-moz-linear-gradient(left, rgba(0,0,0,0) 92%, rgba(0,0,0,0.35) 100%);
 	background-image:-ms-linear-gradient(left, rgba(0,0,0,0) 92%, rgba(0,0,0,0.35) 100%);
 	background-image:-o-linear-gradient(left, rgba(0,0,0,0) 92%, rgba(0,0,0,0.35) 100%);
@@ -108,7 +108,7 @@ body{
 	height:100%;
 
 	background:-webkit-gradient(linear, right top, left top, color-stop(0.92, rgba(0,0,0,0)), color-stop(1, rgba(0,0,0,0.15)));
-	background-image:-webkit-linear-gradient(right, rgba(0,0,0,0) 94%, rgba(0,0,0,0.65) 100%);
+	background-image:-webkit-linear-gradient(right, rgba(0,0,0,0) 94%, rgba(0,0,0,0) 100%);
 	background-image:-moz-linear-gradient(right, rgba(0,0,0,0) 94%, rgba(0,0,0,0.65) 100%);
 	background-image:-ms-linear-gradient(right, rgba(0,0,0,0) 94%, rgba(0,0,0,0.65) 100%);
 	background-image:-o-linear-gradient(right, rgba(0,0,0,0) 94%, rgba(0,0,0,0.65) 100%);
